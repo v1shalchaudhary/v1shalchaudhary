@@ -15,7 +15,7 @@ Always open to collaborating on interesting projects, exploring new technologies
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/v1shal.chaudhary) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vishal-chaudhary22) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vishal46k@gmail.com) 
 
 # 💻 Tech Stack:
-<h2 align="center">⚡ Tech Stack & Tools</h2>
+<h2 align="center"></h2>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,postgres,python,git,github,vscode&perline=6" />

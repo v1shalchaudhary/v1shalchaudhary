@@ -1,7 +1,13 @@
 # 💫 About Me:
 ### 💫 About Me<br><br>👋 Hey, I'm Vishal — a developer who loves turning ideas into reality with code.<br><br>- 🚀 Building full-stack applications and exploring AI-powered solutions.<br>- 💻 Working with **JavaScript, React.js, Node.js, HTML & CSS**.<br>- 🧠 Currently exploring AI engineering, system design, and scalable software architecture.<br>- 🎯 Goal: Build impactful products and become an engineer who solves real-world problems.<br>- ⚡ Fun fact: I love experimenting with ideas that seem impossible at first.<br><br>### 🤝 Let's Connect<br><br>Always open to collaborating on interesting projects, exploring new technologies, and building something awesome together!
 
-<iframe src="https://tenor.com/view/homelander-the-boys-season3-exhale-homelander-exhale-disappointed-gif-26166811"></iframe>
+<p align="center">
+  <a href="https://tenor.com/view/homelander-the-boys-season3-exhale-homelander-exhale-disappointed-gif-26166811">
+    <img src="./tenor.gif"
+         width="480"
+         alt="Homelander animation">
+  </a>
+</p>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/v1shal.chaudhary) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vishal-chaudhary22) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vishal46k@gmail.com) 
